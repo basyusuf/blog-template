@@ -1,0 +1,10 @@
+.header{
+    padding-top: 30px;
+    padding-bottom: 15px;
+    background-color: white;
+}
+.headerText{
+    font-size: 48px;
+    font-weight: bold;
+    cursor: pointer;
+}
