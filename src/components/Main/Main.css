@@ -1,4 +1,8 @@
 .mainContent{
     background-color: rgba(234, 234, 234, 0.5);
-    height: 700px;
+}
+.articleList{
+    padding-left: 16px;
+    padding-right: 16px;
+
 }

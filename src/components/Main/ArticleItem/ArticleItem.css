@@ -6,6 +6,7 @@
     padding-top: 16px;
     font-size: 48px;
     font-weight: bold;
+    line-height:1;
 }
 .articleItem{
     margin-top: 30px;
@@ -14,16 +15,18 @@
     border-radius: 5px;
     background-color: white;
     display: flex;
+    height: 250px;
     max-height: 300px;
     
 }
 .articleRightSide{
     padding-left: 16px;
     padding-right: 16px;
-    height: 100%;
+    height: 250px;
 }
 .articleText{
     margin-top: 16px;
+    min-height: 110px;
 }
 .articleButton{
     margin-top: 8px;
